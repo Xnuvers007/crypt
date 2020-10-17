@@ -1,4 +1,5 @@
-#! by unknwhp
+#! by XnuversXploitXen
+#! usr/bin/Python2
 
 import hashlib, os, time
 os.system('clear') #linux
